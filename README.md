@@ -2,7 +2,7 @@
 
 Hang on a bit. I'm getting organised here.
 
-Lorem ipsum about me section. Books, Plants, and Code...
+Lorem ipsum about me section. Books, Plants, and Code - not necessarity in that order...
 
 
 **Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)
