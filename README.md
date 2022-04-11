@@ -21,7 +21,12 @@ Lorem ipsum about me section. Books, Plants, and Code...
 <details>
 	<summary>:pizza:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
- 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=#E95420)&nbsp;
 
 </details>
 
