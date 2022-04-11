@@ -4,10 +4,16 @@ Hang on a bit. I'm getting organised here.
 
 Lorem ipsum about me section. Books, Plants, and Code...
 
-**You can also find me on:**
 
+**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)
+
+---
+
+**You can also find me on:**<br/>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jessicambaldwin/)
 [<img src="https://img.shields.io/badge/librarything-%251A15.svg?&style=for-the-badge&logo=librarything&logoColor=white&color=b04949"/>](https://www.librarything.com/shelflife)
+
+***
 
 <details>
   <summary>:octocat:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
