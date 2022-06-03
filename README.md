@@ -15,7 +15,7 @@ Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that 
 [<img src="https://img.shields.io/badge/librarything-%251A15.svg?&style=for-the-badge&logo=librarything&logoColor=white&color=b04949"/>](https://www.librarything.com/shelflife)
 <br />
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe">
+[<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe">](https://tryhackme.com/p/oddbook)
 
 ***
 
