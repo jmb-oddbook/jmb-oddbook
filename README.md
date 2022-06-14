@@ -1,11 +1,16 @@
 ## Hi there 👋 I'm Jessica, thanks for stopping by
 
-Hang on a bit. I'm getting organised here.
+I am a Data Analyst and aspiring Pythonista with a strong background in research. Be it archival, digital, analogue, or artefactual, or "in the wild", I will find it!<br />
+My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not be edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:
+
+
+
+
 
 Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that order...
 
 
-**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)
+<!--**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)-->
 
 ---
 
