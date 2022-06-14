@@ -8,7 +8,7 @@ I was drawn to Data Analytics and Data Science by the incredible diversity of ap
 
 
 
-Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that order...
+<!--Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that order...-->
 
 
 <!--**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)-->
@@ -19,9 +19,7 @@ Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jessicambaldwin/)
 [<img src="https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=green"/>](https://public.tableau.com/app/profile/jessica.baldwin#!/?newProfile=&activeTab=0)
 [<img src="https://img.shields.io/badge/librarything-%251A15.svg?&style=for-the-badge&logo=librarything&logoColor=white&color=b04949"/>](https://www.librarything.com/shelflife)
-<br />
-
-[<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe">](https://tryhackme.com/p/oddbook)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe" width="auto" height="40">](https://tryhackme.com/p/oddbook)
 
 ***
 
@@ -38,12 +36,14 @@ Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that 
 	<summary>:pizza:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=#E95420)&nbsp;
+![Python](https://img.shields.io/badge/-Python-36507e?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-36507e?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-36507e?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-36507e?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-36507e?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-36507e?style=flat&logo=ubuntu&logoColor=#E95420)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-36507e?style=flat&logo=tableau)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-36507e?style=flat&logo=mysql)&nbsp;
 </details>
 
 <!--
