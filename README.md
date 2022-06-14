@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jessica, thanks for stopping by
 
 I am a Data Analyst and aspiring Pythonista with a strong background in research. Be it archival, digital, analogue, or artefactual, or "in the wild", I will find it!<br />
-My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not be edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:
+My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not been edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:
 
 I was drawn to Data Analytics and Data Science by the incredible diversity of applications of the field itself as well as the diversity of the people who are part of it. From making transport more efficient to resource management and ensuring that data is open, accessible, and understandable to citizens, Data Science is a field with so much potential to do good not only on a social level but also ecologically and economically. I want my projects to support and reflect that forward-thinking and collaborative community that I am now part of and who place such value on life-long learning.
 
