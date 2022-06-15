@@ -3,7 +3,7 @@
 I am a Data Analyst and aspiring Pythonista with a strong background in research.
 
 My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not be edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:<br />
-Studying ancient cultures was like a treasure hunt, not only with finding the material you needed but also formulating questions and figuring out different ways to approach them. Original research allowed me to tell stories from a perspective different to our own, acknowledging bias in the record, and connecting text and data in ways that were no obvious before.
+Studying ancient cultures was like a treasure hunt, not only with finding the material you needed but also formulating questions and figuring out different ways to approach them. Original research allowed me to tell stories from a perspective different to our own, acknowledging bias in the record, and connecting text and data in ways that were not obvious before.
 
 I was drawn to Data Analytics and Data Science by their incredible diverse application possibilities as well as the opportunity to apply my research skills to projects where it could have a positive impact. This is a field with so much potential to do good socially, ecologically, and economically, the possibilities are endless.
 
