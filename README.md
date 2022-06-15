@@ -18,7 +18,7 @@ As an analyst I enjoy working on innovative projects that have an ecological or 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jessicambaldwin/)
 [<img src="https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=green"/>](https://public.tableau.com/app/profile/jessica.baldwin#!/?newProfile=&activeTab=0)
 [<img src="https://img.shields.io/badge/librarything-%251A15.svg?&style=for-the-badge&logo=librarything&logoColor=white&color=b04949"/>](https://www.librarything.com/shelflife)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe" width="auto" height="40">](https://tryhackme.com/p/oddbook)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/oddbook.png" alt="TryHackMe" width="auto" height="33">](https://tryhackme.com/p/oddbook)
 
 ***
 
