@@ -1,14 +1,12 @@
 ## Hi there 👋 I'm Jessica, thanks for stopping by
 
-I am a Data Analyst and aspiring Pythonista with a strong background in research. Be it archival, digital, analogue, or artefactual, or "in the wild", I will find it!<br />
-My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not been edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:
+I am a Data Analyst and aspiring Pythonista with a strong background in research.<br />
+My love for data began while studying ancient Near Eastern Languages and Archaeology. Did you know, the number of cuneiform tablets lying in museums are in the 6-digit range and that a large part of these have not be edited yet? Just think of all that data lying there unread, unused, unloved :broken_heart:<br />
+Studying ancient cultures was like a treasure hunt, not only with finding the material you needed but also formulating questions and figuring out different ways to approach them. Original research allowed me to tell stories from a perspective different to our own, acknowledging bias in the record, and connecting text and data in ways that were no obvious before.
 
-I was drawn to Data Analytics and Data Science by the incredible diversity of applications of the field itself as well as the diversity of the people who are part of it. From making transport more efficient to resource management and ensuring that data is open, accessible, and understandable to citizens, Data Science is a field with so much potential to do good not only on a social level but also ecologically and economically. I want my projects to support and reflect that forward-thinking and collaborative community that I am now part of and who place such value on life-long learning.
+I was drawn to Data Analytics and Data Science by their incredible diverse application possibilities as well as the opportunity to apply my research skills to projects where it could have a positive impact. This is a field with so much potential to do good socially, ecologically, and economically, the possibilities are endless.
 
-
-
-
-<!--Lorem ipsum about me section. Books, Plants, and Code - not necessarily in that order...-->
+As an analyst I enjoy working on innovative projects that have an ecological or sustainability focus and that would increase the livability of urban centres. I believe in ensuring that data is open, accessible, and understandable to citizens.
 
 
 <!--**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)-->
