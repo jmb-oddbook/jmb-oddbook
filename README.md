@@ -7,7 +7,7 @@ Studying ancient cultures was like a treasure hunt - finding the necessary mater
 
 I was drawn to Data Analytics and Data Science by their incredible diverse application possibilities and the opportunity to apply my research skills to projects where they could have a positive impact. Data Science is a field with so much potential to do good socially, ecologically, and economically. The possibilities are endless.
 
-As an analyst, I enjoy working on innovative projects that have an ecological or sustainability focus and would increase the livability of urban centres. I believe in ensuring that data is open, accessible, and understandable to citizens.
+As an analyst, I enjoy working on innovative projects that have an ecological or sustainability focus and would increase the livability of urban centres. I believe in ensuring that data is open, accessible, and understandable to citizens. That not only includes electronic data but also archival material.
 
 
 <!--**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)-->
