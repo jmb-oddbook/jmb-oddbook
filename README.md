@@ -10,6 +10,11 @@ I was drawn to Data Analytics and Data Science by their incredible diverse appli
 As an analyst, I enjoy working on innovative projects that have an ecological or sustainability focus and would increase the livability of urban centres. I believe in ensuring that data is open, accessible, and understandable to citizens. That includes not only electronic data but also archival material.
 
 
+:construction::construction::construction::construction::construction::construction::construction:
+
+Everything is currently under construction! I'm reworking texts for better legibility, prettifying code, and integrating experimental code. Please take "Do not run, will break" seriously. :construction::construction:
+
+
 <!--**Portfolio website:** [https://jmbaldwin.github.io](https://jmbaldwin.github.io)-->
 
 ---
